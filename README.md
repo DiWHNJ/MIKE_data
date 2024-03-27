@@ -10,5 +10,5 @@ This is an example case study of the paper, which visually demonstrates the effe
 
 
 <p align="center">
-  <img src="images/case_study.jpg" alt="case study" width="200" height="100">
+  <img src="images/case_study.jpg" alt="case study" width="1000" height="600">
 </p>
