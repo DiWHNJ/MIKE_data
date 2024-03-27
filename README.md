@@ -7,8 +7,6 @@ We have opened up our complete dataset through the above link, and the detailed 
 
 ## Case study
 This is an example case study of the paper, which visually demonstrates the effects before and after editing.
-
-
 <p align="center">
-  <img src="images/case_study.jpg" alt="case study" width="9000" height="460">
+  <img src="images/case_study.jpg" alt="case study" width="9000" height="600">
 </p>
