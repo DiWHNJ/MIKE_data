@@ -5,7 +5,7 @@
 
 The complete dataset could be downloaded through the above link. It will be open source in the near future.
 
-## Case study
+## Case Study
 
 Here are some case studies of editing multimodal fine-grained entities. The first case uses IKE to edit, the second case uses SERAC, the third case uses MEND, where the third example is a failure case.
 <p align="center">
