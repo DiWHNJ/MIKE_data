@@ -18,6 +18,8 @@ We implement a rigorous selection protocol for the entities collected and their 
 <p align="center">
   <img src="images/Figure1.jpg" alt="Figure1" width="600" height="450">
 </p>
+<center>Figure 1 Manual evaluation interface</center>
+
 <p align="center">
   <img src="images/Figure2.jpg" alt="Figure2" width="600" height="450">
 </p>
