@@ -1,2 +1,2 @@
 # MIKE_data
-![example image](case_study.png)
+![case study image](images/case_study.jpg)
