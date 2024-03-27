@@ -6,5 +6,6 @@
 We have opened up our complete dataset through the above link, and the detailed settings of the dataset can be referred to our paper.
 
 ## Case study
+This is an example case study of the paper, which visually demonstrates the effects before and after editing.
 ![case study image](images/case_study.jpg)
 
