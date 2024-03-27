@@ -7,5 +7,7 @@ We have opened up our complete dataset through the above link, and the detailed 
 
 ## Case study
 These are some example case studies of our benchmark, which demonstrates the effects before and after editing.
-![case study image](images/case_study.jpg)
+<p align="center">
+  <img src="images/case_study.jpg" alt="case study" width="900" height="600">
+</p>
 
